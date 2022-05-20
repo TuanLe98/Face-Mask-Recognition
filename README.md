@@ -8,9 +8,9 @@ Amid the ongoing COVID-19 pandemic, there are no efficient face mask detection a
 * Matplotlib
 * Numpy
 # Dataset
-This dataset consists of 20095 images belonging to two classes:
+### This dataset consists of 20095 images belonging to two classes:
 
-with_mask: 1105 images
-without_mask: 8995 images
-The images used were real images of faces wearing masks. The images were collected from the following sources:
-Kaggle datasets
+* with_mask: 1105 images
+* without_mask: 8995 images
+### The images used were real images of faces wearing masks. The images were collected from the following sources:
+* Kaggle datasets
